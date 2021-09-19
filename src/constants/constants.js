@@ -8,6 +8,15 @@ export const projects = [
     visit: 'https://google.com',
     id: 0,
   },
+  {
+    title : 'Online Chat App',
+    description : 'Built Using Reactjs and Streamchat (api for Chats)',
+      image : '/images/2.png',
+      tags : ['React' , 'Stream Chat Api'],
+      source:'https://google.com',
+      visit: 'https://abacusrehan.com',
+      id:1,
+  }
 ];
 
 export const TimeLineData = [
